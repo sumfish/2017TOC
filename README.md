@@ -20,9 +20,10 @@ bot username
 
 + example :
 
-    ![](https://i.imgur.com/ccLd4oA.jpg =250x450)
+<img src="https://i.imgur.com/ccLd4oA.jpg" width="45%" height="45%"> 
+
+   <img src="https://i.imgur.com/8EAzZao.jpg" width="45%" height="45%"> 
     
-    ![](https://i.imgur.com/8EAzZao.jpg =250x450)
 
 
 ## Finite State Machine
